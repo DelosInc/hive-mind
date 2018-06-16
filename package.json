@@ -1,0 +1,8 @@
+{
+  "name": "hivemind",
+  "version": "1.0.0",
+  "description": "collective consentient consciousness",
+  "main": "index.js",
+  "repository": "https://github.com/DelosInc/hivemind.git",
+  "license": "GPL-3.0"
+}
